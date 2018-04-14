@@ -6,3 +6,4 @@ create git dev
 master add
 add branch test
 fast forward
+fix bug
